@@ -321,14 +321,12 @@ footer {
     align-items: center;
     justify-content:space-between;
     text-align: center;
-    flex-wrap:wrap;
+    flex-wrap:nowrap;
     
   }
 
   .logo {
     height:20px;
-    width:auto;
-    padding:auto;
   }
 
   nav ul {
