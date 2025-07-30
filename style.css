@@ -315,15 +315,8 @@ footer {
   nav a{
     font-size:14px;
   }
-  .btn-talk {
-    padding: 8px 14px;
-    font-size: 14px;
-  }
 
-  .logo {
-    height: 40px;
-  }
-  .container {
+ .container {
     flex-direction: row;
     align-items: center;
     justify-content:space-between;
@@ -397,10 +390,6 @@ footer {
   .footer-column {
     text-align: center;
   }
-}
-
-.header {
-  padding: 15px 0;
 }
 
 nav ul li a {
