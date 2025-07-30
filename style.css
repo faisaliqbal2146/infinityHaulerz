@@ -315,8 +315,11 @@ footer {
   nav a{
     font-size:14px;
   }
+   .logo {
+    height:20px;
+  }
 
- .container .header {
+ .container .header ul {
     flex-direction: row;
     align-items: center;
     justify-content:space-between;
@@ -325,9 +328,7 @@ footer {
     
   }
 
-  .logo {
-    height:20px;
-  }
+ 
 
   nav ul {
     flex-direction: row;
