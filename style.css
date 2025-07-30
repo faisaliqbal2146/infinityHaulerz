@@ -326,10 +326,9 @@ footer {
   }
 
   .logo {
-    height: auto;
+    height:20px;
     width:auto;
     padding:auto;
-    flex-wrap:wrap;
   }
 
   nav ul {
@@ -344,10 +343,9 @@ footer {
   }
 
   .btn-talk {
-     padding: 8px 14px;
-    margin-top: auto;
-    font-size:14px;
-    white-space:nowrap;
+     padding: 6px 10px;
+    font-size:12px;
+    flex-wrap:nowrap;
     }
 
   .hero {
