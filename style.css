@@ -322,12 +322,14 @@ footer {
     justify-content:space-between;
     text-align: center;
     flex-wrap:wrap;
-    gap:10px;
+    
   }
 
   .logo {
-    height: 40px;
+    height: auto;
     width:auto;
+    padding:auto;
+    flex-wrap:wrap;
   }
 
   nav ul {
