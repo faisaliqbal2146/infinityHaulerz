@@ -333,7 +333,7 @@ footer {
 
   .logo {
     height: 40px;
-    margin-bottom: 10px;
+    width:auto;
   }
 
   nav ul {
@@ -348,7 +348,8 @@ footer {
   }
 
   .btn-talk {
-    margin-top: 10px;
+    margin-top: auto;
+    font-size:auto;
   }
 
   .hero {
