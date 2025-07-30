@@ -335,16 +335,12 @@ footer {
     flex: 1;
   }
 
-  .header-bottom {
+  .header-bottom nav ul {
     flex: 2;
+    align-items:center;
     justify-content: space-between;
   }
- nav ul {
-    flex-direction: row;
-    align-items: center;
-    justify-content:space-between;
-    padding: auto;
-  }
+
 
   nav ul li {
     margin: 0;
@@ -353,7 +349,7 @@ footer {
   .btn-talk {
      padding: 6px 10px;
     font-size:12px;
-    flex-wrap:nowrap;
+    flex-wrap:wrap;
     }
 
   .hero {
