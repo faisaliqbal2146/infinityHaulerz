@@ -329,6 +329,7 @@ footer {
     justify-content:space-between;
     text-align: center;
     flex-wrap:wrap;
+    gap:10px;
   }
 
   .logo {
@@ -348,8 +349,11 @@ footer {
   }
 
   .btn-talk {
+     padding: 8px 14px;
     margin-top: auto;
-    font-size:auto;
+    font-size:14px;
+    white-space:nowrap;
+    float:right;
   }
 
   .hero {
